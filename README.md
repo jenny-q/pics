@@ -1,3 +1,10 @@
+Pics is a web app that uses Unsplash API to get a list of images.
+Built with Semantic UI, Grid css, and create-react-app.
+
+![alt text](https://github.com/jenny-q/pics/blob/master/public/plants.png)
+
+------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
